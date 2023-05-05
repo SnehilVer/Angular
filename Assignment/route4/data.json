@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sam",
+    "class": 9,
+    "section": "C",
+    "maths": 50,
+    "science": 80,
+    "english": 55,
+    "hindi": 55
+  },
+  {
+    "name": "Jane",
+    "class": 2,
+    "section": "A",
+    "maths": 40,
+    "science": 83,
+    "english": 55,
+    "hindi": 57
+  },
+  {
+    "name": "John",
+    "class": 11,
+    "section": "B",
+    "maths": 41,
+    "science": 53,
+    "english": 55,
+    "hindi": 67
+  },
+  {
+    "name": "Mary",
+    "class": 11,
+    "section": "B",
+    "maths": 41,
+    "science": 78,
+    "english": 34,
+    "hindi": 90
+  }
+]
